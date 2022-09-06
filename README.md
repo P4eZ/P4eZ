@@ -11,8 +11,7 @@ expand technical and conceptual capabilities. Here are some of the reasons why P
   - Teach others about cybersecurity concepts (encryption, offensive/defensive security, networking)
   - Pure FUN!
 
-The goal is to learn and explain cybersecurity concepts in an interactive way. The code may not be the most effecient in performing a task, so feel free to change the
-and add to it.
+The goal is to learn and explain cybersecurity concepts in an interactive way. The code may not be the most effecient in performing a task, so feel free to change the code and add to it.
 
 Have a look around and expiriment with the code for yourself. I do my best to explain the concepts within the code using comments. Most applications will be written using Python 3 and will follow PEP8 standards. The applications here will be peer-reviewed by others including cybersecurity professionals, professors, and other cyber students to ensure the concepts are correct. Contributors will be acknowledged at the beginning of the main file.
 
