@@ -1,5 +1,5 @@
 This account is used as a way to showcase cybersecurity specific applications for academic use only. The types of applications found here are primarily command line
-interface (CLI) tools for administrative maintenence or offensive/defensive cybersecurity operations. I do not condone, accept, or encourage any illegal use of these
+interface (CLI) tools for administrative maintenence or offensive/defensive cybersecurity operations. I do not condone or encourage any illegal use of these
 tools in any form. All users are responsible for their own actions.
 
 Hello, welcome to my repository! I am P4eZ (pronounced for-eh-z), a current cybersecurity student practicing cybersecurity concepts through software development. The goal of Project P4eZ is to learn, develop, and teach security in a project-oritentated environment. Learning information security by practically applying concepts can
